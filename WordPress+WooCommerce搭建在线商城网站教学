@@ -1,0 +1,12 @@
+WordPress+WooCommerce搭建在线商城网站教学
+把所有的主题删掉，搜索 Woostify 安装并启用这个主题
+安装必要的插件
+1.安装商城网站生成器插件，搜索 Elementor 安装的并启用（安装前要在elementor.com官网谷歌帐号登录并关联你的网站）
+2.安装专业的电商插件，搜索 WooCommerce 安装并启用
+3.安装电商愿望清单插件，搜索
+Tl WooCommerce Wishlist 安装并启用，再搜索 tiwes 找到 JVM WooCommerce Wishlist 点立即安装，先在更多详情查看是否启用，已启用后再在 Tl WooCommerce Wishlist 上再点一次启用才生效（JVM WooCommerce Wishlist的启用按钮不要点）
+4.安装表单插件，搜索 WPForms 安装并启用
+5.安装颜色添加插件：Variation Swatches for Woocommerce  先在更多详情点启用，然后在点一次启动才生效
+6.安装支付插件：搜索 Payment Plugins for PayPalWoocommerce和Payment Plugins for StripeWoocommerce 安装stripe（支持微信和支付宝）和paypal(贝宝支付)并启用
+7.可以添加易支付插件，实现免签支付
+添加易支付插件，要注意在编辑里设置为经典结算模式，结算时易支付才显示出来
